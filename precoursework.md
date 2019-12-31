@@ -24,4 +24,4 @@
 
 This course will require us to use a Unix shell, which is included in the Linux and Mac operating systems. A Unix shell, however, is not the default on Windows systems. Since it can be hard to debug many different computers with different configurations, I ask that Windows users install Ubuntu. There are a few different options for installing Ubuntu, please see the guide here: [windows.md](windows.md). 
 
-If you're stuck, I've created a `#windows-users` channel in Slack where you can help one another get setup. Feel free to ping me (@Dhrumil Mehta) or Sultan (@@Sultan Orazbayev) in the `#windows_users` channel and we will try our best to help out.
+If you're stuck, I've created a `#windows-users` channel in Slack where you can help one another get setup. Feel free to ping me (@Dhrumil Mehta) or Sultan (@Sultan Orazbayev) in the `#windows_users` channel and we will try our best to help out.
