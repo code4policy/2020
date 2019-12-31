@@ -8,7 +8,7 @@ The following are the options for booting Ubuntu on a Windows computer:
 1. **Option 1** (recommended) - If your computer is fast enough, you can run Ubuntu inside a virtual machine. Instructions to do this are below. This [link](http://www.psychocats.net/ubuntu/virtualbox) does a good job of explaining the benefits of this option. You will also have the opportunity to try out a new operating system and in the spirit of the course live fully within the open source world!
 
 	* Download [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
-	* Download the [Ubuntu ISO](https://www.ubuntu.com/download/desktop)
+	* Download the [Ubuntu ISO](https://www.ubuntu.com/download/desktop) (use the latest LTS version)
 	* Make sure resource virtualization is enabled in the bios for your computer (this will vary based on the computer you have and you'll want to google how to do this for your specific computer)
 	* Create a new "Ubuntu" virtual box, when you first open the virtual box, a prompt will pop up
 		<img src="images/vm-install-ubuntu.png" width="480">
