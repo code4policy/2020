@@ -19,6 +19,6 @@ The following are the options for booting Ubuntu on a Windows computer:
 
 3. **Option 3** (for tinkerers who are not averse to risk) - [Dual boot](https://help.ubuntu.com/community/WindowsDualBoot) Linux and Windows on your computer. This is recommended only for advanced users because it involves making major changes to your hard-drive. Make sure to back up all of your important files before installing the new operating system. Booting directly into Ubuntu will likely run more smoothly than the other options. Dual booting can also be a fun way to learn more about how computers work.
 
-4. **Option 4** - Boot Ubuntu [off of a flash drive](https://unetbootin.github.io/) (for slower computers). This might be a good option if your computer is proving too slow to run Ubuntu in a Virtual Machine. You can boot the operating system off a flash drive rather than your hard-drive. This will work best with a USB 3.0 capable flash drive.
+4. **Option 4** - Boot Ubuntu [off of a flash drive](https://unetbootin.github.io/) (for slower computers). This might be a good option if your computer is proving too slow to run Ubuntu in a Virtual Machine. You can boot the operating system off a flash drive rather than your hard-drive. This will work best with a USB 3.0 capable flash drive. If you've got a windows machine on the slower end, please slack me and I will try to have a USB drive with Ubuntu pre-loaded and ready for you.
 
 
