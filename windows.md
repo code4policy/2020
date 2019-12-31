@@ -14,7 +14,6 @@ The following are the options for booting Ubuntu on a Windows computer:
 		<img src="images/vm-install-ubuntu.png" width="480">
 	* Select the folder icon and find your ubuntu ISO and hit "start"
 	* Follow the on-screen instructions to "install ubuntu"
-	* Jump up to the "Ubuntu" section of the setup document and follow those rules inside the virtual box.
 
 2. **Option 2** (a good backup) - [Windows Subsystem for Linux](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0)  - Run Ubuntu from within Windows 10. This will not work unless you have Windows 10. Even if you select option 1, it might be a good idea to set this up just in-case you have trouble with VirtualBox later on.
 
