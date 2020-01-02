@@ -1,7 +1,7 @@
 # Pre-Course Work
 
 1. Fill out the [pre-course survey](https://forms.gle/nTL6fZ14DntqpTy56). [~15 min]
-2. Join the class [Slack](https://code4policy2020.slack.com/join/signup) chat. Introduce yourself in the `#section-a` or `#section-b` channel. Include a little bit about a policy area you’re interested in so that everyone can be thinking about forming project groups with people who have similar interests. [~10 min]
+2. Join the class [Slack](https://code4policy2020.slack.com/join/signup) chat. Introduce yourself in the `#section_a` or `#section_b` channel. Include a little bit about a policy area you’re interested in so that everyone can be thinking about forming project groups with people who have similar interests. [~10 min]
 3. Read Chapter 1 and 2 of "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland and JJ Sutherland, before the first day of class (a copy of chapters 1 & 2 will be provided) [~30 min]
 4. Do the first "Interactive Lesson" for [Sections 1-5 & 8](https://www.codecademy.com/learn/learn-python-3) of the Codecademy Python Tutorial. Please note that you only have to finish the first "interactive lesson" within each section. All the other sections, like quizzes/projects/etc, are **not** required. [Several Hours]
 	- This assignment will be due on **Sunday January 12**, but I'm providing it ahead of time because it **will likely take several hours to complete** in addition to other assignments you will get during the class. Knowing programming **is not** a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. If you're new to code, it would be a good idea to start on these before the course begins to get a feel for things.
