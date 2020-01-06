@@ -20,3 +20,16 @@ file | description
 [syllabus.pdf](syllabus.pdf) | Syllabus
 [precoursework.md](precoursework.md) | Pre-course Work
 [windows.md](windows.md) | Special instructions for Windows users.
+
+# Day 1
+
+file | description
+-----|------------
+[welcome.md](welcome.md) | Intro
+[../modules/agile/](https://github.com/code4policy/modules/tree/master/agile) | Agile & Scrum
+[../modules/commandline/](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
+-- | Selecting Project Groups
+
+### Homework
+
+Check back here for today's homework assignment.
