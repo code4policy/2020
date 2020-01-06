@@ -9,7 +9,6 @@
 
 ## Course and Project Overview
 
-* Instructor Introduction
 * Walkthrough [syllabus](syllabus.pdf) quickly
 * Overview of [project](https://github.com/code4policy/modules/blob/master/finalproject/project.md) (with examples)
 	* Examples Year 1
@@ -29,6 +28,8 @@
 [Aggregate responses (technical skills question)](https://docs.google.com/forms/d/1fSv04Om2Xg3M7PKESdTy1F3UJ7ZyMwZnXl-kJlH39k4/edit#responses)
 
 ## Introductions
+
+* [Instructor Introduction](https://slides.com/dhrumilmehta/numbers-to-narrative/live?)
 
 Introduce yourself!
 
