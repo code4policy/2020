@@ -29,10 +29,15 @@ Open up spotlight search and (command ⌘ + space) and type "terminal". That sho
 ## Ubuntu
 
 Open up the applications (bottom left) and find the terminal application. Once you have a terminal open follow these steps:
-
 1. In the terminal run the following command to update your package manager.
+	
+	<!-- Ubuntu Live Installers do not have the universe/multiverse/restricted sources enabled by default: https://askubuntu.com/questions/1081243/why-do-i-need-to-enable-universe-repo-in-18-04-isnt-it-default-enabled -->
 
-	`sudo apt-get update`
+	```
+	sudo add-apt-repository universe --no-update
+	sudo add-apt-repository multiverse --no-update
+	sudo apt-get update
+	```
 
 2. Install the "tree" command
 
