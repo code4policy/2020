@@ -37,3 +37,12 @@ file | description
 [../modules/finalproject/brainstorm.md](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md) | Project Brainstorm Guide
 [../modules/commandline/07-homework.md](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md) | Command Line Homework
 [../modules/agile/06-reading.md](https://github.com/code4policy/modules/blob/master/agile/06-reading.md) | Agile Reading
+
+# Day 2
+file | description
+-----|------------
+-- | Standup Meeting
+-- | Commandline Review
+-- | Homework Review
+[../modules/git](https://github.com/code4policy/modules/tree/master/git) | Git and GitHub (Lessons 1-5)
+[../modules/web/frontend-stack-abridged](https://github.com/code4policy/modules/blob/master/web/frontend-stack-abridged.md) | Abridged intro to the front-end stack
