@@ -46,3 +46,5 @@ file | description
 -- | Homework Review
 [../modules/git](https://github.com/code4policy/modules/tree/master/git) | Git and GitHub (Lessons 1-5)
 [../modules/web/frontend-stack-abridged](https://github.com/code4policy/modules/blob/master/web/frontend-stack-abridged.md) | Abridged intro to the front-end stack
+
+Hey section A! :) 
