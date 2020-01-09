@@ -22,7 +22,6 @@ file | description
 [windows.md](windows.md) | Special instructions for Windows users.
 
 # Day 1
-
 file | description
 -----|------------
 [welcome.md](welcome.md) | Intro
@@ -31,7 +30,6 @@ file | description
 -- | Selecting Project Groups
 
 ### Homework
-
 file | description
 -----|------------
 [../modules/finalproject/brainstorm.md](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md) | Project Brainstorm Guide
@@ -48,11 +46,8 @@ file | description
 [../modules/web/frontend-stack-abridged](https://github.com/code4policy/modules/blob/master/web/frontend-stack-abridged.md) | Abridged intro to the front-end stack
 
 ### Homework
-
 file | description
 -----|------------
 [../modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Have a storytime meeting with your group.
 
 * note: If you've finished Codecademy, you can submit that by uploading the completion screenshots to the `assignments` repository in GitHub.
-
-
