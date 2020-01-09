@@ -49,5 +49,3 @@ file | description
 file | description
 -----|------------
 [../modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Have a storytime meeting with your group.
-
-* note: If you've finished Codecademy, you can submit that by uploading the completion screenshots to the `assignments` repository in GitHub.
