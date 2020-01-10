@@ -51,3 +51,22 @@ file | description
 [../modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Have a storytime meeting with your group.
 
 * note: If you've finished Codecademy, you can submit that by uploading the completion screenshots to the `assignments` repository in GitHub.
+
+
+# Day 3
+file | description
+-----|------------
+-- | Standup Meeting
+-- | GitHub Review
+[../modules/commandline/00-setup.md](https://github.com/code4policy/modules/blob/master/commandline/00-setup.md) | Setup
+[../modules/git](https://github.com/code4policy/modules/tree/master/git) | Branching and Merginig
+[../modules/finalproject/03-sprint-planning.md](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning
+-- | Data visualization with [Gus Wezerek](https://www.nytco.com/press/gus-wezerek-joins-opinion/)
+
+### Homework
+file | description
+-----|------------
+[http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
+[../modules/codeconcepts/function.md](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md) | Functions Homework (Python & JavaScript)
+-- | Finish Storytime & Sprint Planning Meetings
+-- | Group Project Work
