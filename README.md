@@ -69,3 +69,15 @@ file | description
 -- | Group Project Work
 
 * note: If you've finished Codecademy, you can submit that by uploading the completion screenshots to the `assignments` repository in GitHub.
+
+# Day 4
+file | description
+-----|------------
+[../modules/web](https://github.com/code4policy/modules/tree/master/web) | Web & Visualizations
+[../modules/data](https://github.com/code4policy/modules/tree/master/data) | Data & Conversions
+
+### Homework
+
+file | description
+-----|------------
+-- | Group Project Work
