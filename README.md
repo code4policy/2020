@@ -73,7 +73,8 @@ file | description
 # Day 4
 file | description
 -----|------------
-[../modules/web](https://github.com/code4policy/modules/tree/master/web) | Web & Visualizations
+-- | Standup Meeting
+[../modules/web/05-visualization.md](https://github.com/code4policy/modules/tree/master/web) | Visualizations
 [../modules/data](https://github.com/code4policy/modules/tree/master/data) | Data & Conversions
 
 ### Homework
@@ -81,3 +82,8 @@ file | description
 file | description
 -----|------------
 -- | Group Project Work
+[day4reading.md](day4reading.md) | Digital Services Reading
+[../modules/data](https://github.com/code4policy/conversions) | Data Conversions Homework
+[Google Form](https://forms.gle/VfE8CVnBRyrE9CoQ6) | Reflection (Due by Jan 21)
+
+
