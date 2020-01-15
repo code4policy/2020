@@ -87,3 +87,20 @@ file | description
 [Google Form](https://forms.gle/VfE8CVnBRyrE9CoQ6) | Reflection (Due by Jan 21)
 
 
+# Day 5
+file | description
+-----|------------
+-- | Standup Meeting
+[../modules/data](https://github.com/code4policy/modules/tree/master/data) | Data & Conversions (cont...)
+[../example7](http://github.com/code4policy/example7/) | Example 7
+-- | David Zvenyach (2:30-3:30)
+[../https://github.com/code4policy/a-tale-of-two-visualizations](https://github.com/code4policy/a-tale-of-two-visualizations) | Visualization & Functions
+[../modules/finalproject/05-sprint-review.md](https://github.com/code4policy/modules/blob/master/finalproject/05-sprint-review.md) | Sprint Review Meeting
+[../modules/finalproject/06-sprint-retroactive.md](https://github.com/code4policy/modules/blob/master/finalproject/06-sprint-retrospective.md) | Sprint Retroactive Meeting
+
+### Homework
+
+file | description
+-----|------------
+-- | Group Project Work
+[../modules/opensource/opensource.md](https://github.com/code4policy/modules/blob/master/opensource/opensource.md) | Open Source Reading
