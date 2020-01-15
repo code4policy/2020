@@ -102,5 +102,7 @@ file | description
 
 file | description
 -----|------------
--- | Group Project Work
+-- | Sprint 1 Retroactive
+-- | Storytime meeting Sprint 2
+-- | Sprint Estimation Sprint 2
 [../modules/opensource/opensource.md](https://github.com/code4policy/modules/blob/master/opensource/opensource.md) | Open Source Reading
