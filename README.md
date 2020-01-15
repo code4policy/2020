@@ -83,7 +83,7 @@ file | description
 -----|------------
 -- | Group Project Work
 [day4reading.md](day4reading.md) | Digital Services Reading
-[../modules/data](https://github.com/code4policy/conversions) | Data Conversions Homework
+[../conversions](https://github.com/code4policy/conversions) | Data Conversions Homework
 [Google Form](https://forms.gle/VfE8CVnBRyrE9CoQ6) | Reflection (Due by Jan 21)
 
 
