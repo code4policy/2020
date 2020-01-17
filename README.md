@@ -106,4 +106,5 @@ file | description
 -- | Storytime meeting Sprint 2
 -- | Sprint Estimation Sprint 2
 [../modules/opensource/opensource.md](https://github.com/code4policy/modules/blob/master/opensource/opensource.md) | Open Source Reading
-[../modules/finalproject/project.md](https://github.com/code4policy/modules/tree/master/finalproject) | Final Project Guidelines
+[../modules/finalproject/project.md](https://github.com/code4policy/modules/blob/master/finalproject/project.md) | Final Project Guidelines
+
