@@ -113,8 +113,10 @@ file | description
 -----|------------
 --  | Standup Meeting
 [../modules/web](https://github.com/code4policy/modules/tree/master/web) | Web, APIs, Scrapers
+[../modules/security/encryption.md](https://github.com/code4policy/modules/blob/master/security/encryption.md) | Encryption
 -- | Max Whitney (Security)
--- | Concluding Remarks
+[../modules/web/10-goodbye.md](https://github.com/code4policy/modules/blob/master/web/10-goodbye.md) | Concluding Remarks
+https://forms.gle/ZPwYrVeFcysLSepb6 | Survey & Course Evals Reminder
 
 ### Homework
 file | description
