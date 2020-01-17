@@ -106,5 +106,22 @@ file | description
 -- | Storytime meeting Sprint 2
 -- | Sprint Estimation Sprint 2
 [../modules/opensource/opensource.md](https://github.com/code4policy/modules/blob/master/opensource/opensource.md) | Open Source Reading
-[../modules/finalproject/project.md](https://github.com/code4policy/modules/blob/master/finalproject/project.md) | Final Project Guidelines
 
+# Day 6
+file | description
+-----|------------
+--  | Standup Meeting
+[../modules/web](https://github.com/code4policy/modules/tree/master/web) | Web, APIs, Scrapers
+[../modules/security/encryption.md](https://github.com/code4policy/modules/blob/master/security/encryption.md) | Encryption
+-- | Max Whitney (Security)
+[../modules/web/10-goodbye.md](https://github.com/code4policy/modules/blob/master/web/10-goodbye.md) | Concluding Remarks
+https://forms.gle/ZPwYrVeFcysLSepb6 | Survey & Course Evals Reminder
+
+### Homework
+file | description
+-----|------------
+[API Reading (Swartz)](https://www.morganclaypool.com/doi/pdfplus/10.2200/S00481ED1V01Y201302WBE005) | Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36)
+-- | Sprint 2 Review (Final Project Submission)
+[../modules/finalproject/06-sprint-retrospective.md](https://github.com/code4policy/modules/blob/master/finalproject/06-sprint-retrospective.md) | Sprint 2 Retroactive
+[Reflection 1](https://docs.google.com/forms/d/e/1FAIpQLSccCEa2BQe6SfmfAdgWpR9WGIqYU_bswOOKTcFC5DUAHViG2w/viewform) | Reflection 1: Technical Learning
+CHECK BACK HERE |  Final Project Reflection

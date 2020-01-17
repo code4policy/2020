@@ -38,8 +38,34 @@ Bonus:
 - reading and writing text files
 - reading and writing CSV files
 - reading and writing JSON files
+- filtering
+- grouping
+
+#### Assignment 7 (example7)
+- https://github.com/code4policy/example7/
+
 
 # Homework Assignments
 
 - Command Line Homework (filter.py)
 - Functions Homework 
+
+# Reflections
+
+- Technical learning reflection
+	- https://docs.google.com/forms/d/e/1FAIpQLSccCEa2BQe6SfmfAdgWpR9WGIqYU_bswOOKTcFC5DUAHViG2w/viewform
+
+- Sprint Retrospective (team)
+	- https://docs.google.com/forms/d/e/1FAIpQLSd5lIhMQNhdRBzrB9TeYzmRDtkh5MuYlF27rwu8eyXVbavEwQ/viewform
+
+- Course feedback
+	- https://docs.google.com/forms/d/e/1FAIpQLSfThjnIgicPvw32vcLAdi1d6MdwnHmMVpI8wZiNjPxzdBNJ7w/viewform
+
+# Course Evaluations
+
+Please make sure to fill out course evaluations below: 
+
+https://canvas.harvard.edu/
+
+Evaluations will remain open until January 23.
+
