@@ -41,7 +41,7 @@ Bonus:
 - filtering
 - grouping
 
-#### Assignment 7 (example7)
+#### Assignment 7 (example7 - data conversion and visualization together)
 - https://github.com/code4policy/example7/
 
 
