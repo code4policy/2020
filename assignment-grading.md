@@ -1,6 +1,10 @@
-####  ~~~CHECK BACK HERE FOR MORE~~~
+#### This document is final.
 
-This file will update as the class continues on, please check back here after the final day of class
+Hello all! Here's the final list of assignments to make sure are submitted.
+
+Please note that there is one more ["Final Project Reflection"](https://forms.gle/mfBeQdwoYXhPYGwy5) that has been added.
+
+Please slack Dhrumil if you have any questions or concerns.  
 
 # Daily Assignment Grades
 
