@@ -121,7 +121,7 @@ https://forms.gle/ZPwYrVeFcysLSepb6 | Survey & Course Evals Reminder
 file | description
 -----|------------
 [API Reading (Swartz)](https://www.morganclaypool.com/doi/pdfplus/10.2200/S00481ED1V01Y201302WBE005) | Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36)
--- | Sprint 2 Review (Final Project Submission)
+[../modules/finalproject/project.md](https://github.com/code4policy/modules/blob/master/finalproject/project.md) | Sprint 2 Review (Final Project Submission)
 [../modules/finalproject/06-sprint-retrospective.md](https://github.com/code4policy/modules/blob/master/finalproject/06-sprint-retrospective.md) | Sprint 2 Retroactive
 [Reflection 1](https://docs.google.com/forms/d/e/1FAIpQLSccCEa2BQe6SfmfAdgWpR9WGIqYU_bswOOKTcFC5DUAHViG2w/viewform) | Reflection 1: Technical Learning
 https://forms.gle/vegUppie8ahoA3A6A |  Final Project Reflection
